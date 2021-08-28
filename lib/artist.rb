@@ -7,3 +7,4 @@ end
 artist = Artist.new 
 artist.name = "Beyonce"
 puts artist.name
+#=> Beyonce
